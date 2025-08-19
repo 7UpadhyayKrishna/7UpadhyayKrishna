@@ -21,32 +21,6 @@ I enjoy solving real-world problems by combining **automation, CI/CD pipelines, 
 
 ---
 
-## 💼 Experience  
-
-**🔹 DevOps Engineer – 100Acress (June 2025 – Present)**  
-- Increased deployment speed by **40%** via GitHub Actions CI/CD pipelines.  
-- Containerized & deployed **15+ microservices** with Docker on AWS.  
-- Automated infra provisioning with IaC, reducing AWS costs by **25%**.  
-- Implemented monitoring (CloudWatch, ELK), cutting issue detection time by **30%**.  
-
-**🔹 Backend & DevOps Intern – NeoGenCode (Apr 2025 – Jun 2025)**  
-- Built CI/CD workflows with GitHub Actions for test + deploy automation.  
-- Deployed Dockerized Node.js apps on AWS (EC2, S3).  
-- Debugged and integrated a **real-time chatbot feature** with backend & UI teams.  
-
----
-
-## 🚀 Projects  
-
-- [**AWS Secure Application Deployment**](https://github.com/7UpadhyayKrishna/AWS-Secure-Application-Deployment)  
-  Designed a secure AWS architecture with VPC, EC2, Load Balancer & Dockerized apps in ECR.  
-
-- [**DevTinder**](https://github.com/7UpadhyayKrishna/DevTinder)  
-  Developer networking app – Dockerized & deployed on AWS with CI/CD pipelines + Nginx reverse proxy.  
-
-- **PaanPOS, KrishiLink, LocalView** – full-stack apps solving real-world problems.  
-
----
 
 ## 🎓 Certifications  
 - ✅ AWS Certified Solutions Architect – Associate (2025)  
